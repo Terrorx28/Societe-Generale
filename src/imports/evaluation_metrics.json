@@ -1,0 +1,11 @@
+{
+  "precision": 0.8747390396659708,
+  "recall": 0.7590579710144928,
+  "f1_score": 0.8128031037827352,
+  "tp": 419,
+  "fp": 60,
+  "fn": 133,
+  "total_events": 1200,
+  "anomalies_found": 479,
+  "ground_truth_anomalies": 552
+}
